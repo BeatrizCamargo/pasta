@@ -1,4 +1,2 @@
 # pasta
-oi
-esse é um teste
-esse é o teste 2
+Seja bem vindo, isso é apenas um teste para aula de versionamento!
